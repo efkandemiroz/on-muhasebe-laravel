@@ -40,8 +40,8 @@ Laravel altyapısı ile hazırlanacak, online mikro web muhasebe yazılımı.
     -- İrsaliyeler
 
 #### PROJE FORM ALANLARI 
-- **[Cari İşlemleri](https://gitlab.com/efkandemiroz/webmuhasebe/-/wikis/CAR%C4%B0-%C4%B0%C5%9ELEMLER)**
-- **[Stok İşlemleri](https://gitlab.com/efkandemiroz/webmuhasebe/-/wikis/STOK-%C4%B0%C5%9ELEMLER%C4%B0)**
+- **[Cari İşlemleri](https://github.com/efkandemiroz/on-muhasebe-laravel/wiki/Cari-%C4%B0%C5%9Flemler---Form)**
+- **[Stok İşlemleri](https://github.com/efkandemiroz/on-muhasebe-laravel/wiki/Stok-%C4%B0%C5%9Flemleri---Form)**
 - **[Fatura İşlemleri](https://gitlab.com/efkandemiroz/webmuhasebe/-/wikis/FATURA-%C4%B0%C5%9ELEMLER%C4%B0)**
 
 ### Yazılım Demosu
