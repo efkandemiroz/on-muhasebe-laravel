@@ -1,0 +1,59 @@
+/* Custom Css */
+
+.wm-content-breadcrumb{
+    display: flex;
+    align-items: center;
+    background: #1a2632;
+    border-radius: 3px;
+    height: 40px;
+    padding-left: 17px;
+    color: #fff;
+}
+
+.wm-content-title{
+    font-size: 15px;
+    font-weight:500;
+    cursor:pointer;
+}
+
+.wm-liste{
+    cursor: pointer;
+}
+
+.wrapper .main-header{
+    display:none !important;
+}
+
+
+.content-wrapper.iframe-mode iframe{
+    height: calc(100vh - calc(3.5rem + 1px) - 50px) !important;
+}
+
+table.dataTable{
+    width: 100% !important;
+}
+
+.select2-container{
+    width:100% !important;
+}
+
+#cariTablo_wrapper{
+    width:100% !important;
+}
+
+@media (max-width: 991px){
+
+    .wrapper .main-header{
+        display:flex !important;
+    }
+
+    .content-wrapper.iframe-mode .navbar-nav .nav-link {
+        white-space: nowrap;
+        padding: 10px 12px;
+    }
+
+}
+
+.form-control[readonly]{
+    background-color: white !important;
+}
